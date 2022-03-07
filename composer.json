@@ -24,12 +24,12 @@
     },
     "require": {
         "php"            : ">=5.5.0",
-        "hoa/compiler"   : "~3.0",
-        "hoa/consistency": "~1.0",
-        "hoa/exception"  : "~1.0",
-        "hoa/file"       : "~1.0",
-        "hoa/protocol"   : "~1.0",
-        "hoa/visitor"    : "~2.0"
+        "hoa/compiler"   : "dev-master",
+        "hoa/consistency": "dev-master",
+        "hoa/exception"  : "dev-master",
+        "hoa/file"       : "dev-master",
+        "hoa/protocol"   : "dev-master",
+        "hoa/visitor"    : "dev-master"
     },
     "require-dev": {
         "hoa/test": "~2.0"
